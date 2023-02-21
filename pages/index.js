@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <Navbar />
       <div className="flex justify-center items-center h-screen bg-gray-100">
-        <h1 className="text-3xl font-bold">Welcome to my website</h1>
+        <h1 className="text-3xl font-bold">Welcome to my blog</h1>
       </div>
     </>
   );
